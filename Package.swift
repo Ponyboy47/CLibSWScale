@@ -11,5 +11,5 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/Ponyboy47/CLibAVUtil.git", from: "0.1.0")
-    ],
+    ]
 )
